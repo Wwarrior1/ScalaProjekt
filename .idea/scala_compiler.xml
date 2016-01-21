@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="incrementalityType" value="SBT" />
+    <profile name="SBT 1" modules="play-scalajs-showcase-master,scalaproject_final,exampleSharedJVM" />
+    <profile name="SBT 2" modules="exampleClient">
+      <parameters>
+        <parameter value="-P:scalajs:mapSourceURI:file:/C:/Users/Wojtek/Scala_projekty/ScalaProject_final/example-client/src/main/scala/-&gt;c82c51e32b5e87de4545/" />
+      </parameters>
+      <plugins>
+        <plugin path="C:\Users\Wojtek\.ivy2\cache\org.scala-js\scalajs-compiler_2.11.7\jars\scalajs-compiler_2.11.7-0.6.5.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 3" modules="exampleServer">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <parameters>
+        <parameter value="-encoding" />
+        <parameter value="utf8" />
+      </parameters>
+    </profile>
+    <profile name="SBT 4" modules="exampleSharedJS">
+      <parameters>
+        <parameter value="-P:scalajs:mapSourceURI:file:/C:/Users/Wojtek/Scala_projekty/ScalaProject_final/example-shared/src/main/scala/-&gt;cb29f50a5fa2e1678093/" />
+      </parameters>
+      <plugins>
+        <plugin path="C:\Users\Wojtek\.ivy2\cache\org.scala-js\scalajs-compiler_2.11.7\jars\scalajs-compiler_2.11.7-0.6.5.jar" />
+      </plugins>
+    </profile>
+  </component>
+</project>

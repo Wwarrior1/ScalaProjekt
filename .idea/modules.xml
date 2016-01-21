@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example-shared-sources.iml" filepath="$PROJECT_DIR$/.idea/modules/example-shared-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exampleClient.iml" filepath="$PROJECT_DIR$/.idea/modules/exampleClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exampleClient-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exampleClient-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exampleServer.iml" filepath="$PROJECT_DIR$/.idea/modules/exampleServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exampleServer-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exampleServer-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exampleSharedJS.iml" filepath="$PROJECT_DIR$/.idea/modules/exampleSharedJS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exampleSharedJS-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exampleSharedJS-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exampleSharedJVM.iml" filepath="$PROJECT_DIR$/.idea/modules/exampleSharedJVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exampleSharedJVM-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exampleSharedJVM-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalaproject_final.iml" filepath="$PROJECT_DIR$/.idea/modules/scalaproject_final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalaproject_final-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scalaproject_final-build.iml" />
+    </modules>
+  </component>
+</project>

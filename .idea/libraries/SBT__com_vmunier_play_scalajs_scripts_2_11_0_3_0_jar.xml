@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.vmunier:play-scalajs-scripts_2.11:0.3.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.vmunier/play-scalajs-scripts_2.11/jars/play-scalajs-scripts_2.11-0.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.vmunier/play-scalajs-scripts_2.11/srcs/play-scalajs-scripts_2.11-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
