@@ -124,7 +124,7 @@ object TodoJS {
 
   def templateFooter = {
     footer(id := "info")(
-      p("Projekt dostpny na GitHubie ", a(href := "https://github.com/Wwarrior1/Scala_projekt")("tutaj"))
+      p("Projekt dostpny na GitHubie ", a(href := "https://github.com/Wwarrior1/ScalaProjekt")("tutaj"))
     )
   }
 
