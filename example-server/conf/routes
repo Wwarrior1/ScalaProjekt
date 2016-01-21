@@ -1,0 +1,15 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Home page
+GET           /                      controllers.TodoController.index
+
+GET           /all                   controllers.TodoController.all
+POST          /create                controllers.TodoController.create
+POST          /update/:id            controllers.TodoController.update(id: Long)
+DELETE        /delete/:id            controllers.TodoController.delete(id: Long)
+POST          /clear                 controllers.TodoController.clear
+
+# Map static resources from the /public folder to the /assets URL path
+GET           /assets/*file                controllers.Assets.at(path="/public", file)
